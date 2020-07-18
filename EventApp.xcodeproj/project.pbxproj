@@ -85,9 +85,9 @@
 		17EBF08A24C2DC2500EF6E8F /* EventApp */ = {
 			isa = PBXGroup;
 			children = (
-				17655ED124C3298500B13480 /* View Models */,
 				17EBF0A724C2F84F00EF6E8F /* Extensions */,
 				17EBF0A824C2F85800EF6E8F /* Controllers */,
+				17655ED124C3298500B13480 /* View Models */,
 				17EBF0A924C2F86300EF6E8F /* Coordinators */,
 				17EBF08B24C2DC2500EF6E8F /* AppDelegate.swift */,
 				17EBF08D24C2DC2500EF6E8F /* SceneDelegate.swift */,

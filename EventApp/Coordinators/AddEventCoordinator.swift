@@ -31,6 +31,6 @@ final class AddEventCoordinator: Coordinator {
     }
     
     deinit {
-        print("deinit from add event coordinator")
+        print("deinit from add event coordinator -> 3")
     }
 }

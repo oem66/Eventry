@@ -22,6 +22,6 @@ class AddEventViewController: UIViewController {
     }
     
     deinit {
-        print("deinit from add event controller")
+        print("deinit from add event controller -> 1")
     }
 }

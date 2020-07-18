@@ -16,6 +16,6 @@ final class AddEventViewModel {
     }
     
     deinit {
-        print("deinit from add event view model")
+        print("deinit from add event view model -> 2")
     }
 }
